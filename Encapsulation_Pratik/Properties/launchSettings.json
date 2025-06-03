@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Encapsulation_Pratik": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
