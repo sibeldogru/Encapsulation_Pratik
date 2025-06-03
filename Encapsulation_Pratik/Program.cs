@@ -5,7 +5,7 @@ Car car1 = new Car()
     BrandName = "Ford",
     Model = "Mustang",
     Color = "Black",
-    DoorNumber = -1,
+    DoorNumber = 5,
 };
 
 car1.CarInfo();
