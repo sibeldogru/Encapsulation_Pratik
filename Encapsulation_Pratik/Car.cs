@@ -36,7 +36,7 @@ namespace Encapsulation_Pratik
                 if (value != 2 && value != 4)
                 {
                     Console.WriteLine("Geçersiz bir kapı sayısı girdiniz. Kapı sayısı 2 veya 4 olabilir.");
-                    _doorNumber = 0;
+                    _doorNumber = -1;
                 }
                 else
                 {
